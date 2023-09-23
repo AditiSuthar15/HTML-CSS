@@ -1,4 +1,4 @@
-#Title: HTML/CSS Project Showcase
+Title: HTML/CSS Project Showcase
 
 Description:
 This GitHub repository showcases my HTML and CSS project. It's a practical example of web development, demonstrating my skills in creating visually appealing and responsive web pages.
